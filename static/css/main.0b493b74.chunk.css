@@ -1,0 +1,2 @@
+.todo{font-family:Arial,Helvetica,sans-serif}.todo__list{list-style:none;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));grid-gap:30px;gap:30px;padding:0}.todo__item{display:flex;flex-direction:column;justify-content:space-around;height:300px;border:3px solid #000;border-radius:10px}.container{padding:0 20px}.todo__title{font-size:25px}.todo__completed,.todo__title{text-align:center}.todo__completed--true{color:green}.todo__completed--false{color:red}.user__list{list-style:none;margin:0;padding:0}
+/*# sourceMappingURL=main.0b493b74.chunk.css.map */
